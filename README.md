@@ -8,9 +8,9 @@ Olá, aqui é a Karine, sejam bem-vindos(as)!
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icons8.com.br/icon/wPohyHO_qO1a/reagir">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icons8.com.br/icon/wpZmKzk11AzJ/typescript">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icons8.com.br/icons/set/styled-components">
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
+  <img align="center" width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/>
 </div>
  
  <br>
